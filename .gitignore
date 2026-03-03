@@ -1,0 +1,16 @@
+data/
+plots/
+cache/
+*.sto
+.venv/
+__pycache__
+.DS_Store
+.pixi/
+pixi.lock
+*.egg-info/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.spl
+*.synctex.gz
